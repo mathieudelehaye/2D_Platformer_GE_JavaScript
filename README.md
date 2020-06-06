@@ -1,7 +1,7 @@
 # 2D_Platformer_JavaScript
 A 2D-plateformer game engine in JavaScript using Phaser framework 
 
-** ! A Java version of this game enging is also available on my GitHub account ! **
+** A Java version of this game enging is also available on my GitHub account **
 
 Screenshot: 
 
