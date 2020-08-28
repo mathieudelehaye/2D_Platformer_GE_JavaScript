@@ -1,6 +1,6 @@
 # 2D_Platformer_JavaScript
 
-Try my game: https://mathieudelehaye.github.io/2D_Platformer_GE_JavaScript/
+Try my game on: https://mathieudelehaye.github.io/2D_Platformer_GE_JavaScript/
 
 A 2D-plateformer game engine in JavaScript using Phaser framework 
 
